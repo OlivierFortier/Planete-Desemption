@@ -1,6 +1,6 @@
 //déclaration de variables globales pour le numéro des images actuelles et un tableau contenant les images   
-var imgNum = 0;
-    var tblImages = ["images/poster.jpg","images/environnements.jpg","images/gameplay.jpg"];
+let imgNum = 0;
+    const tblImages = ["images/poster.jpg","images/environnements.jpg","images/gameplay.jpg"];
 
 //fonction pour créer un diaporama pour faire défiler des images du jeu
 function defileImage() {

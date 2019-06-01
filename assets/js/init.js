@@ -3,8 +3,8 @@
 (function () {
     
     //initialisation des div pour le viewer d'images
-    var petiteImage = document.querySelector("#imageDiapo");
-    var grandeImage = document.querySelector("#iViewer img");
+    const petiteImage = document.querySelector("#imageDiapo");
+    const grandeImage = document.querySelector("#iViewer img");
     
     //ajout des écouteurs d'événements pour le viewer d'image
     petiteImage.addEventListener("mouseup",afficheGrandeImage);
