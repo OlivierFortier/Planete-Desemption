@@ -11,7 +11,7 @@ function defileImage() {
 
 return true
 }
-
+/*
 //faire afficher l'image en plus grand dans un viewer
 function afficheGrandeImage() {
     
@@ -25,4 +25,4 @@ function affichePetiteImage() {
     document.querySelector("#iViewer img").setAttribute("src", "");
     document.querySelector("#iViewer").style.display = "none";
     
-}
+}*/
