@@ -7,4 +7,4 @@ The arcade itself was the most demanding part of the project, as it took us over
 The arcade was made entirely out of re-used components and eco-friendly materials and paint.
 The game itself "Planète Désemption" is a post-apoclyptic game that is inspired by the Fallout franchise, but instead of everything getting destroyed by nuclear war, it's the result of heavily neglecting the earth.
 
-The whole project was awarded.
+The whole project was awarded and comissionned by the animation service of Collège Maisonneuve.
