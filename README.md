@@ -1,6 +1,8 @@
 # Planete-Desemption
 Graphic Design project
 
+View this project : https://olivierfortier.github.io/Planete-Desemption/
+
 This website was made to present our earth day project to raise awareness about environmental issues.
 We envisioned an arcade game concept that, in order to play, you must recycle a can or a bottle (like in super markets). 
 The arcade itself was the most demanding part of the project, as it took us over 200 hours of design, creation, obtention of materials, and much more.
