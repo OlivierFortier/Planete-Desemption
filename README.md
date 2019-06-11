@@ -1,6 +1,8 @@
 # Planete-Desemption
 Graphic Design project
 
+NOTE : background image is not optimized
+
 View this project : https://olivierfortier.github.io/Planete-Desemption/
 
 This website was made to present our earth day project to raise awareness about environmental issues.
